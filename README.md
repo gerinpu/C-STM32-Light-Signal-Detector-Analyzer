@@ -1,3 +1,3 @@
-# HW
+# TCS34725+OLED0.96
 Light Signal Detector &amp; Analyzer
-Including OLED 0.98 drive file and TCS34725 setup.
+Including OLED 0.96 drive file and TCS34725 setup.
